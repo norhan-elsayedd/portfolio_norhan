@@ -1,0 +1,107 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3980 >>
+stream
+0.14 0.22 0.09 rg
+50 735 512 1.5 re f
+50 676 512 0.75 re f
+50 606 512 0.75 re f
+50 522 512 0.75 re f
+50 380 512 0.75 re f
+50 312 512 0.75 re f
+0.1 0.1 0.1 rg
+0.1 0.14 0.1 rg
+BT /F2 20 Tf 50 740 Td (NORHAN ELSAYED) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 11 Tf 50 722 Td (Flutter Developer | Software Engineer | Mobile App Developer) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9.5 Tf 50 706 Td (Email: ahmedelsayednn9@gmail.com   |   WhatsApp: +20 128 249 8336   |   Zagazig, Egypt) Tj ET
+0.14 0.37 0.22 rg
+BT /F2 12 Tf 50 680 Td (PROFESSIONAL SUMMARY) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9.5 Tf 50 664 Td (Senior Flutter developer focused on building reliable, scalable, and user-centered mobile applications.) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9.5 Tf 50 650 Td (Experienced in transforming ideas and visual designs into polished Android and iOS experiences with) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9.5 Tf 50 636 Td (clean architecture, robust API integration, state management \(Cubit\), and highly maintainable code.) Tj ET
+0.14 0.37 0.22 rg
+BT /F2 12 Tf 50 610 Td (EDUCATION) Tj ET
+0.1 0.14 0.1 rg
+BT /F2 10 Tf 50 594 Td (Bachelor's Degree in Computer and Informatics) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9.5 Tf 50 580 Td (Zagazig University   |   Grade: 3.85 / 4.00) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9 Tf 50 566 Td (Academic Focus: Programming Fundamentals, Algorithms & Data Structures, Databases, Software Engineering,) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9 Tf 50 553 Td (System Analysis & Design, Object-Oriented Programming, and Collaborative Team Projects.) Tj ET
+0.14 0.37 0.22 rg
+BT /F2 12 Tf 50 526 Td (PROFESSIONAL EXPERIENCE) Tj ET
+0.1 0.14 0.1 rg
+BT /F2 10 Tf 50 510 Td (Trainer in NTI   |   2026 - Present) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9 Tf 50 497 Td (- Delivered specialized technical training and mentoring for learners in Flutter and mobile engineering.) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9 Tf 50 484 Td (- Explained programming fundamentals, state management \(Cubit\), REST API integration, and clean architecture.) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9 Tf 50 471 Td (- Guided students through hands-on development of production-ready mobile applications.) Tj ET
+0.1 0.14 0.1 rg
+BT /F2 10 Tf 50 450 Td (Member in IEEE Community - Flutter Developer   |   2025 - 2026) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9 Tf 50 437 Td (- Actively participated in technical workshops, hackathons, and collaborative software projects.) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9 Tf 50 424 Td (- Built responsive mobile UI components and implemented clean state management solutions with Cubit.) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9 Tf 50 411 Td (- Collaborated across cross-functional teams to deliver practical and intuitive mobile features.) Tj ET
+0.14 0.37 0.22 rg
+BT /F2 12 Tf 50 384 Td (TECHNICAL SKILLS) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9 Tf 50 368 Td (- Mobile Development: Flutter, Dart, Cubit, State Management, Responsive UI, Clean Architecture) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9 Tf 50 355 Td (- Programming & Fundamentals: C++, Python, Data Structures & Algorithms, OOP, Databases \(SQL/NoSQL\)) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9 Tf 50 342 Td (- Tools & Workflow: Git, GitHub, REST APIs, Postman, Debugging, Performance Optimization, Teamwork) Tj ET
+0.14 0.37 0.22 rg
+BT /F2 12 Tf 50 316 Td (FEATURED PROJECTS) Tj ET
+0.1 0.14 0.1 rg
+BT /F2 10 Tf 50 300 Td (Flutter E-Commerce App   |   Flutter, Dart, REST API, Cubit) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9 Tf 50 287 Td (A complete mobile shopping application with product catalog, cart, secure checkout, and state management.) Tj ET
+0.1 0.14 0.1 rg
+BT /F2 10 Tf 50 267 Td (News & Explore App   |   Flutter, Dart, News API, Cubit) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9 Tf 50 254 Td (API-driven news application featuring category navigation, full-text search, offline caching, and bookmarks.) Tj ET
+0.1 0.14 0.1 rg
+BT /F2 10 Tf 50 234 Td (Mobile UI Concept   |   Flutter, Dart, UI/UX) Tj ET
+0.2 0.22 0.2 rg
+BT /F1 9 Tf 50 221 Td (Polished interactive mobile dashboard prototype demonstrating glassmorphism and modern Flutter widgets.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000004283 00000 n 
+0000004353 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4428
+%%EOF
